@@ -22,6 +22,24 @@ Create report   using powerBI
 ![Screenshot 2024-06-11 165107](https://github.com/Ruchi361/Real-Estate-Market-Trends/assets/156825223/1cfceaf2-99bd-490e-820b-dce0a6d53ec8)
 
 
+###  Availability of houses based on their furnishing status: 
+
+![Screenshot 2024-06-11 165107](https://github.com/Ruchi361/Real-Estate-Market-Trends/assets/156825223/226c97a3-4132-409a-990c-ba92b78408e6)
+
+## PPT:
+https://docs.google.com/presentation/d/17Wu8kYAF5LwGKsandsQTrusOHYBe0KC1XnG93f2PXlk/edit?usp=sharing
+
+## LEARNINGS:
+Web Scraping 
+Basic Understanding of HTML Script
+Using Python Library like BeautifulSoup & selenium
+Demonstrating EDA techniques
+Using reporting tool like powerBI 
+Effective Teamwork 
+
+
+
+
 
 
 
