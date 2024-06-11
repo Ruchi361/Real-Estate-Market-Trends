@@ -8,8 +8,11 @@ Obtain real estate sales data from webscrapping
 ### 3. Data Preparation & Connection:
 Clean and organize  data  Establish the connection between SQL DataBase, PowerBI, python dataframes to get access to datasets.
 
-### 4. Visualization and Reporting: 
+## 4. Visualization and Reporting: 
 Create report   using powerBI
+### Price vs location:
+![Screenshot 2024-06-11 164914](https://github.com/Ruchi361/Real-Estate-Market-Trends/assets/156825223/b8ea2f8a-bc98-4da3-ad20-3dcc36ff64ba)
+
 
 
 
